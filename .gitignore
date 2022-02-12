@@ -1,0 +1,9 @@
+# Project-wide
+.DS_Store
+
+# ignore node/grunt dependency directories
+node_modules/
+
+# ignore express, mongoose and ejs intallation files
+#packages-lock.json
+#package.json
